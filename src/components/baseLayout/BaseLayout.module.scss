@@ -1,0 +1,6 @@
+@import "carbon-components/scss/globals/scss/vars.scss";
+
+.page {
+  margin: $spacing-09;
+  height: calc(100vh - #{$spacing-09});
+}
